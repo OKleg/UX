@@ -1,0 +1,14 @@
+sdg;sdg;sdg;2024-06-05;;;не получилось;
+lab 1;AnchorPane
+TilePane
+FlowPane
+HBox
+VBox;Кроль Олег Владимирович;2024-06-05;;;;
+Последняя Задача;Сдать лаборатрные;Кроль Олег;2024-05-29;;;;
+Заголоваок;Описание;Николай Перович;2024-06-01;;;;
+Задача;А;а;2024-06-07;;;;
+Task Name 3;;;2024-06-01;;;;
+Task Name 3;Task Description;Executor;2024-06-09;;;;
+Task Name 2;Task Description;Executor;2024-06-09;;;;
+Normal Task;Just Normal Task;Admin;2024-06-13;;;;
+task1;Description 1;Executor 1;2024-06-01;;;;
